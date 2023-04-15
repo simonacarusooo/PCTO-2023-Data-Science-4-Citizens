@@ -5,3 +5,6 @@ Quello del fumo da sigaretta è un'abitudine che riguarda il 25% della popolazio
 E' stata condotta un'analisi per capire quali sono i motivi che spingono i ragazzi ad iniziare a fumare, quali sono le tipologie di sigarette maggiormente diffuse e se ci esistono delle differenze a livello socio-anagrafico tra i fumatori e i non fumatori. 
 
 Infine è stato utilizzato un dataset medico per svolgere una regressione logistica e comprendere quali sono gli effetti del fumo da sigaretta sulla salute.
+
+
+La presntazione è disponibile al seguente link: https://view.genial.ly/6439a1eba8d8160010613238/presentation-fumo-e-salute
