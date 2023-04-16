@@ -17,4 +17,32 @@ Il file contenente il codice per la gestione del questionario "Indagine_sulla_di
 3. RISULTATI QUESTIONARIO
 
 
-La presentazione dei principali risultati dell'analisi è disponibile al seguente link: https://view.genial.ly/6439a1eba8d8160010613238/presentation-fumo-e-salute
+L'analisi è stata condotta in collaborazione con gli studenti del 4° anno del Liceo Respighi.
+La presentazione dei principali risultati è disponibile al seguente link: https://view.genial.ly/6439a1eba8d8160010613238/presentation-fumo-e-salute
+
+Qui di seguito è indicato il programma che è stato seguito per l'implementazione del progetto:
+
+## 01 Febbraio
+* Conoscenza dei ragazzi
+* Introduzione alle idee del progetto
+* Preparazione questionario
+
+## 10 Febbraio
+* Revisione questionario (diffuso in data 6 Marzo per motivi burocratici)
+* Introduzione a R
+* Introduzione agli argomenti statistici di base
+
+##  24 Febbraio
+* Introduzione al dataset medico 
+* Analisi univariata e rappresentazioni grafiche
+
+## 10 Marzo
+* Analisi bivariata e rappresentazioni grafiche su dataset medico
+* Analisi bivariata e rapprentazioni grafiche su dataset questionario
+* Teoria di regressione logistica
+
+## 22 Marzo 
+* Presentazione
+
+## Ulteriori incontri
+* Indicazioni per la presentazione e revisione degli argomenti da presentare
