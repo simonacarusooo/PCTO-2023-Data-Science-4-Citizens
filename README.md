@@ -10,6 +10,8 @@ I file contenenti il codice per la gestione del dataset medico "smoking.csv" son
 1. ANALISI UNIVARIATA
 2. ANALISI BIVARIATA E REGRESSIONE
 
+
+
 Il file contenente il codice per la gestione del questionario "Indagine_sulla_diffusione_dell'abitudine_di_fumo_di_sigaretta_tra_i_ragazzi_del_liceo_Respighi[1].csv" è:
 
 3. RISULTATI QUESTIONARIO
