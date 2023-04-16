@@ -6,20 +6,21 @@ E' stata condotta un'analisi per capire quali sono i motivi che spingono i ragaz
 
 Infine è stato utilizzato un dataset medico per svolgere una regressione logistica e comprendere quali sono gli effetti del fumo da sigaretta sulla salute.
 
+#
+
 I file contenenti il codice per la gestione del dataset medico "smoking.csv" sono: 
-1. ANALISI UNIVARIATA
-2. ANALISI BIVARIATA E REGRESSIONE
-
-
+* 1. ANALISI UNIVARIATA
+* 2. ANALISI BIVARIATA E REGRESSIONE
 
 Il file contenente il codice per la gestione del questionario "Indagine_sulla_diffusione_dell'abitudine_di_fumo_di_sigaretta_tra_i_ragazzi_del_liceo_Respighi[1].csv" è:
-
-3. RISULTATI QUESTIONARIO
+* 3. RISULTATI QUESTIONARIO
 
 #
 
 L'analisi è stata condotta in collaborazione con gli studenti del 4° anno del Liceo Respighi.
 La presentazione dei principali risultati è disponibile al seguente link: https://view.genial.ly/6439a1eba8d8160010613238/presentation-fumo-e-salute
+
+#
 
 Qui di seguito è indicato il programma che è stato seguito per l'implementazione del progetto:
 
