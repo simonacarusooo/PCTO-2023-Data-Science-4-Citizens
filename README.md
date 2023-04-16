@@ -16,6 +16,7 @@ Il file contenente il codice per la gestione del questionario "Indagine_sulla_di
 
 3. RISULTATI QUESTIONARIO
 
+#
 
 L'analisi è stata condotta in collaborazione con gli studenti del 4° anno del Liceo Respighi.
 La presentazione dei principali risultati è disponibile al seguente link: https://view.genial.ly/6439a1eba8d8160010613238/presentation-fumo-e-salute
