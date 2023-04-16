@@ -1,4 +1,4 @@
-# PCTO-2023-Data-Science-4-Citizens
+# PCTO 2023- DataScience4Citizens
 
 Quello del fumo da sigaretta è un'abitudine che riguarda il 25% della popolazione italiana (dati EpiCentro 2020-2021), tuttavia questi dati non riguardano la popolazione di età inferiore ai 18 anni ed è per questo che è nata l'idea di diffondere una survey tra gli studenti del liceo Respighi per comprendere quanto sia diffusa l'abitudine di fumare sigarette e quali sono i fattori ad essa correlati. E' da notare che i risultati non possono essere generalizzati, in quanto il nostro è un campione selezionato. 
 
